@@ -1,0 +1,15 @@
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\bin\Debug\PacManGame.exe.config
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\bin\Debug\PacManGame.exe
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\bin\Debug\PacManGame.pdb
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\MainWindow.g.cs
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\App.g.cs
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame_MarkupCompile.cache
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame_MarkupCompile.lref
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\MainWindow.baml
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.g.resources
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.Properties.Resources.resources
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.GenerateResource.Cache
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.exe
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.pdb
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.csprojResolveAssemblyReference.cache
+D:\Visual Studio Projects\3 курс\ПЗ\курсовий проект\PacManGame\PacManGame\obj\Debug\PacManGame.csproj.CoreCompileInputs.cache
